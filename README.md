@@ -15,6 +15,7 @@ Then open the directory containing these files.
 From there, start a Terminal window in Visual Studio Code and initialise the modules we need:
 
     npm install axios
+    npm install objects-to-csv
 
 To customise each sample, edit the corresponing .js file.
 
@@ -48,6 +49,10 @@ To run this sample enter the following in a terminal window:
 # Twitter
 
 API call returning timeline from Twitter
+
+You need to install the Twitter module first:
+
+    npm install
 
 To run this sample enter the following in a terminal window:
 
