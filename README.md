@@ -52,7 +52,7 @@ API call returning timeline from Twitter
 
 You need to install the Twitter module first:
 
-    npm install
+    npm install twitter
 
 To run this sample enter the following in a terminal window:
 
